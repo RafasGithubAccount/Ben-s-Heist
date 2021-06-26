@@ -1,2 +1,2 @@
-# Ben-s-Heist
-This is Ben's Heist. The goal of this game is to get Ben (the monkey) to the gem, while avoiding bombs. 
+# p5.play-boilerplate
+Boiler plate for p5.play
